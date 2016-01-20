@@ -1,1 +1,5 @@
+# custom aliases
+
 alias be='bundle exec'
+alias ltra='ls -ltra'
+alias ll='ls -l'
